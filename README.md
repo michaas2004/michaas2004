@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👋 Witaj na moim profilu na GitHub! 👨‍💻
 
-<!--
-**michaas2004/michaas2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cześć! Nazywam się Michał i jestem pasjonatem programowania. Poniżej znajdziesz kilka informacji o mnie, moich umiejętnościach i projektach.
 
-Here are some ideas to get you started:
+## 🧑‍💻 O mnie
+Jestem programistą z doświadczeniem w tworzeniu aplikacji webowych i oprogramowania. Moją główną pasją jest eksplorowanie nowych technologii i wykorzystywanie ich do rozwiązywania problemów.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Umiejętności
+Moje umiejętności to:
+
+- PHP 🐘
+- MySQL / MariaDB 🗃️
+- Laravel 🚀
+- C++ 📚
+- PHPStorm 💻
+- WebStorm 🌈
+
+## 💼 Projekty
+Oto kilka z moich projektów, które mogą Cię zainteresować:
+
+Wkrótce się pojawi!
+
+Będę stale aktualizował moje repozytoria na GitHub, więc zachęcam do śledzenia mojego profilu, aby być na bieżąco z moimi najnowszymi projektami.
+
+## 📞 Kontakt
+Jeśli jesteś zainteresowany współpracą, masz pytania lub chciałbyś po prostu porozmawiać, możesz się ze mną skontaktować poprzez facebooka lub odwiedzić moją stronę internetową: soon.
+
+Dziękuję za odwiedzenie mojego profilu! 😊👋
+
