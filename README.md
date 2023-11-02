@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h3 align="left">About me</h3>
 
 ###
@@ -63,9 +61,7 @@
 ###
 
 <br clear="both">
-
 <p align="left">• I'll fill in soon.</p>
-
 ###
 
 <h3 align="left">My activities</h3>
