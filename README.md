@@ -71,9 +71,5 @@
 <h3 align="left">My activities</h3>
 
 ###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
+[![Michaasok GitHub stats](https://github-readme-stats.vercel.app/api?username=michaasok)](https://github.com/anuraghazra/github-readme-stats)
 ###
