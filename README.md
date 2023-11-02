@@ -71,5 +71,5 @@
 <h3 align="left">My activities</h3>
 
 ###
-[![Michaasok GitHub stats](https://github-readme-stats.vercel.app/api?username=michaasok)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=michaasok&show_icons=true&theme=transparent)
 ###
