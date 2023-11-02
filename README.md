@@ -55,9 +55,6 @@
 <h3 align="left">My Projects</h3>
 
 ###
-
-<br clear="both">
-
 <p align="left">• I'll fill in soon.</p>
 
 ###
