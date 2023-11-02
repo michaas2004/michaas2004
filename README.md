@@ -1,8 +1,8 @@
-
 <br clear="both">
-[hr]
 
 <h3 align="left">About me</h3>
+
+###
 
 <p align="left">✨ Creating bugs since scratch!<br>📚 I'm currently learning CSS & JavaScript.<br>🎯 Goals: Be the best in learned technologies<br>🎲 Fun fact: My first programming language was PHP 🔥</p>
 
@@ -63,11 +63,5 @@
 ###
 
 <h3 align="left">My activities</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=dark" alt="Layout with last medium posts"  />
-</div>
 
 ###
