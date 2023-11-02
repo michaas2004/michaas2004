@@ -1,9 +1,7 @@
 <hr>
 <br clear="both">
-
+<hr>
 <h3 align="left">About me</h3>
-
-###
 
 <p align="left">✨ Creating bugs since scratch!<br>📚 I'm currently learning CSS & JavaScript.<br>🎯 Goals: Be the best in learned technologies<br>🎲 Fun fact: My first programming language was PHP 🔥</p>
 
