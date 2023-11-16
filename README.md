@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since scratch!<br>📚 I'm currently learning CSS & JavaScript.<br>🎯 Goals: Be the best in learned technologies<br>🎲 Fun fact: My first programming language was PHP.</p>
+<p align="left">✨ Creating bugs since scratch!<br>📚 I'm currently learning CSS & JavaScript.<br>🎯 Goals: Be the best in learned technologies<br>🎲 Fun fact: My first programming language was C++.</p>
 
 ###
 
